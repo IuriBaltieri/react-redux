@@ -1,0 +1,9 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "Example of project how to use redux on practice.",
+  "main": "index.js",
+  "repository": "https://github.com/IuriBaltieri/react-redux.git",
+  "author": "Iuri Baltieri <iuri.baltieri@gmail.com>",
+  "license": "MIT"
+}
